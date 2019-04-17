@@ -1,0 +1,3 @@
+/home/devansh/Desktop/2_2/graphics/assignment2/help2/boat-3d-opengl-master/CMakeFiles/edit_cache.dir
+/home/devansh/Desktop/2_2/graphics/assignment2/help2/boat-3d-opengl-master/CMakeFiles/rebuild_cache.dir
+/home/devansh/Desktop/2_2/graphics/assignment2/help2/boat-3d-opengl-master/CMakeFiles/graphics_asgn1.dir
